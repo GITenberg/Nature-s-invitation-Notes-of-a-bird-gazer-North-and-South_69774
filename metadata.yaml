@@ -1,0 +1,30 @@
+_repo: Nature-s-invitation-Notes-of-a-bird-gazer-North-and-South_69774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+    wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
+description: ''
+gutenberg_issued: '2023-01-12'
+identifiers:
+  gutenberg: '69774'
+language: en
+pgterms:marc904: https://archive.org/details/naturesinvitatio00torrrich
+pgterms:marc905: 20210501015405torrey
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Houghton, Mifflin and Company,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nature''s invitation: Notes of a bird-gazer, North and South'
+url: http://www.gutenberg.org/ebooks/69774

@@ -1,5 +1,8 @@
 _repo: Nature-s-invitation-Notes-of-a-bird-gazer-North-and-South_69774
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69774-h/images/cover.jpg
 creator:
   author:
     agent_name: Torrey, Bradford
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3667
     wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69774#Nature-s-invitation-Notes-of-a-bird-gazer-North-and-South
 gutenberg_issued: '2023-01-12'
 identifiers:
   gutenberg: '69774'
